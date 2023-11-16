@@ -3,6 +3,7 @@ Installation
 
 From pip
 --------
+
 The current :py:obj:`starry` installation relies on :py:obj:`PyMC3` and, by extension, :py:obj:`theano`
 which is `no longer maintained <https://groups.google.com/g/theano-users/c/7Poq8BZutbY/m/rNCIfvAEAwAJ>`_.
 To function properly these packages require :py:obj:`numpy<1.22`, therefore, we strongly recommend installing
